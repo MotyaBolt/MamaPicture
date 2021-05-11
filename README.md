@@ -1,3 +1,1 @@
----
-permalink: /index.html
----
+# Page for my mum
